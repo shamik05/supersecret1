@@ -1,27 +1,31 @@
 {
   "files": {
     "main.css": "/supersecret1/static/css/main.9907fba1.chunk.css",
-    "main.js": "/supersecret1/static/js/main.5bef204f.chunk.js",
-    "main.js.map": "/supersecret1/static/js/main.5bef204f.chunk.js.map",
+    "main.js": "/supersecret1/static/js/main.3d1e5210.chunk.js",
+    "main.js.map": "/supersecret1/static/js/main.3d1e5210.chunk.js.map",
     "runtime-main.js": "/supersecret1/static/js/runtime-main.ee6544b1.js",
     "runtime-main.js.map": "/supersecret1/static/js/runtime-main.ee6544b1.js.map",
-    "static/js/2.abd1338f.chunk.js": "/supersecret1/static/js/2.abd1338f.chunk.js",
-    "static/js/2.abd1338f.chunk.js.map": "/supersecret1/static/js/2.abd1338f.chunk.js.map",
+    "static/js/2.c349ed4c.chunk.js": "/supersecret1/static/js/2.c349ed4c.chunk.js",
+    "static/js/2.c349ed4c.chunk.js.map": "/supersecret1/static/js/2.c349ed4c.chunk.js.map",
     "index.html": "/supersecret1/index.html",
     "static/css/main.9907fba1.chunk.css.map": "/supersecret1/static/css/main.9907fba1.chunk.css.map",
-    "static/js/2.abd1338f.chunk.js.LICENSE.txt": "/supersecret1/static/js/2.abd1338f.chunk.js.LICENSE.txt",
+    "static/js/2.c349ed4c.chunk.js.LICENSE.txt": "/supersecret1/static/js/2.c349ed4c.chunk.js.LICENSE.txt",
     "static/media/andrea.svg": "/supersecret1/static/media/andrea.ec67e78a.svg",
     "static/media/angeline.jpg": "/supersecret1/static/media/angeline.dae9f64b.jpg",
+    "static/media/aubrey.jpg": "/supersecret1/static/media/aubrey.93c3316a.jpg",
+    "static/media/jess.png": "/supersecret1/static/media/jess.88b29fe2.png",
     "static/media/jessica.gif": "/supersecret1/static/media/jessica.c8861b02.gif",
+    "static/media/john.jpg": "/supersecret1/static/media/john.04acd888.jpg",
     "static/media/kobe.jpg": "/supersecret1/static/media/kobe.95ecae71.jpg",
     "static/media/kobe0.jpg": "/supersecret1/static/media/kobe0.bbbdb270.jpg",
-    "static/media/muhammad.jpeg": "/supersecret1/static/media/muhammad.e5206382.jpeg",
+    "static/media/muhammad.jpg": "/supersecret1/static/media/muhammad.eec66f1e.jpg",
+    "static/media/stacey.jpeg": "/supersecret1/static/media/stacey.e5206382.jpeg",
     "static/media/stephen.png": "/supersecret1/static/media/stephen.e3ea744f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ee6544b1.js",
-    "static/js/2.abd1338f.chunk.js",
+    "static/js/2.c349ed4c.chunk.js",
     "static/css/main.9907fba1.chunk.css",
-    "static/js/main.5bef204f.chunk.js"
+    "static/js/main.3d1e5210.chunk.js"
   ]
 }
